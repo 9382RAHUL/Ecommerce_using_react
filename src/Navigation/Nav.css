@@ -1,0 +1,21 @@
+nav{
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    z-index: 999;
+    background-color: white;
+  
+    box-shadow: 5px 5px 10px aliceblue;
+ 
+}
+
+.nav-container >input{
+width: 16rem;
+height: 40px;
+margin: 10px 0;
+border-radius: 5px;
+}
+.nav-icons{
+    margin:  0px 12px;
+    font-size: 30px;
+}

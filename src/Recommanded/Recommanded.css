@@ -1,0 +1,18 @@
+.recommanded-btns{
+margin: 0px 20rem;
+}
+.btns {
+    padding: 10px 20px;
+    margin-right: 6px;
+    background: transparent;
+    border: none;
+    border: 0.6px solid #ccc;
+    border-radius: 5px;
+    color: #323232;
+    cursor: pointer;
+  }
+h2{
+    margin: 30px 20rem;
+    font-weight: bolder;
+    font-size: 20px;
+}
